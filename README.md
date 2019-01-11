@@ -1,5 +1,7 @@
 # Nativefier build for Convo Anywhere
 
+Unofficial Nativefier build of Convo Anywhere that I use on my personal system.
+
 ## Prerequisites
 
 ### Pepper Flash
